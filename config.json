@@ -1,7 +1,6 @@
 {
     "api_key": "XXXXXXX",
     "paths": [
-        "C:\\Users\\marcus\\Desktop",
-        "/home/marcus/Desktop"
+        "C:\\Users\\marcus\\Desktop"
     ]
 }
